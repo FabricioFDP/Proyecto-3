@@ -1,0 +1,13 @@
+# Archivo de pacientes de prueba
+# Formato: id,nombre,edad,prioridad,llegada,tiempo_atencion
+# prioridad: 1 = mas leve, 9 = mas grave
+# llegada y tiempo_atencion estan en minutos (o en "ticks" de la simulacion)
+
+1,Arroyo,25,5,0,5
+2,Castillo,60,8,1,3
+3,Gomez,40,2,2,4
+4,Mora,33,6,2,6
+5,Solano,19,3,4,2
+6,Vargas,72,9,5,4
+7,Jimenez,45,4,6,3
+8,Brenes,28,7,7,5
